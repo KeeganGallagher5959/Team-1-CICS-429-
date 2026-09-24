@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hao Tran
+=======
+Hao Tran, blue
+>>>>>>> 094117c (Edit name file.)
