@@ -3,7 +3,7 @@ Repository for Team 1
 Line 3
 Line 4
 Line 5
-Vyan Patel
+Punya
 Line 7
 Line 8
 Line 9
