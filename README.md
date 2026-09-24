@@ -9,6 +9,7 @@ Matthew Mea
 Noah Therriault
 >>>>>>> 4b18f51 (Edit README.md)
 Noah Therriault
+Matthew Mea
 Line 8
 Line 9
 Line 10
