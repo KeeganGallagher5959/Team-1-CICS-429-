@@ -4,7 +4,7 @@ Line 3
 Line 4
 Line 5
 Punya
-Line 7
+Punya
 Line 8
 Line 9
 Line 10
